@@ -10,8 +10,6 @@ public class ModularExponential{
 			long b=sc.nextInt();
 			System.out.println("Iterative Funtion  :-  "+pow(a,b));
 			System.out.println("Reecursive Function  :-  "+binPow(a,b));
-			//Inbuilt function
-			//System.out.println("a^b11  :-  "+(Math.pow(a,b))%1000000007);
 		}
 	}
 	//using Iterative Function
